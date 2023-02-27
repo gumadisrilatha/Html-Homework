@@ -1,0 +1,90 @@
+What do HTML and CSS stand for?
+HyperText Markup Language and Cascading Style Sheets
+
+Would you rather use HTML or CSS, for putting paragraphs of text on a webpage?
+ HTML.
+
+Would you rather use HTML or CSS, to change the font and background color of a button?
+CSS but we can also change  basic font to bold with HTML also.
+
+What is an HTML tag?
+A piece of element wrapped in opening and closing tags is known as HTML tag.
+
+What are the three parts of an HTML element? (image from paragraph)
+Opening tag, content, closing tag
+
+What is the purpose of the doctype declaration?
+It is used to tell the browser what version of Html is used to render
+the document <!Doctype html>.
+
+What is the HTML element?
+It is a root element,meaning that every other element will be descendant of it.
+
+What is the purpose of the head element?
+The purpose is where we put meta Information about our webpages,inside Head element
+we should not use any element that displays content on the webpage.
+
+What is the purpose of the body element?
+The body element is needed to complete the HTML boiler plate,in which where all 
+the content is displayed to the users.
+
+How do you create a paragraph in HTML?
+Using element  <p></p>.
+
+How do you create a heading in HTML?
+using h1,h2,h3,h4,h5,h6.
+
+How many different levels of headings are there and what is the difference between them?
+There are 6 levels h1,h2,h3,h4,h5,h6.
+The difference between each heading is it has difference font sizes.
+
+What element should you use to make text bold and important?
+<strong></strong> element.
+
+What element should you use to make text italicized to add emphasis to it?
+<i></i> for italicized and <em></em> for emphasis.
+
+What relationship does an element have with any nested elements within it?
+It is their parent element.
+
+What relationship do two elements have if they are at the same level of nesting?
+The elements are siblings
+
+How do you create HTML comments?
+place a <!-- tag before and --> and after the code we create HTML comments.
+
+What HTML tag is used to create an unordered list?
+<ul></ul> 
+
+What HTML tag is used to create an ordered list?
+<ol></ol>
+
+What HTML tag is used to create list items within both unordered and ordered lists?
+<li></li> is used to display list items in which it is used 
+both within unorderd and ordered lists.
+
+What element is used to create a link?
+<a href=""></a>.
+
+What is an attribute?
+Attributes are used to provide additional information about elements
+
+What attribute tells links where to go?
+href atribute.
+
+What is the difference between an absolute and relative link?
+An absolute path is a path that describes the exact location of a file or folder regardless of the current working
+directory.
+Relative link is a path that describes the location of a file or folder in relative to the current working directory.
+
+Which element is used to display an image?
+<image src=""></img>.
+
+What two attributes do images always need to have?
+The two attributes images have src and alt.
+
+How do you access a parent directory in a file path?
+"./"
+
+What are the four main image formats that you can use for images on the web?
+GIF, JPG, PNG and BMP.
